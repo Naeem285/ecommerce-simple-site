@@ -1,0 +1,137 @@
+
+
+
+/* header css */
+.header-text{
+    height: 80vh;
+    margin: auto;
+
+}
+
+#header{
+    
+    height: 80vh;
+    background-color: #ffc0ce;
+}
+.Month{
+    color: rgb(199, 3, 3);
+}
+.btn {
+    padding: 5px;
+}
+.Featured{
+display: flex;
+
+
+justify-content: space-between;
+}
+.phone{
+    background-color:#51d0de;
+}
+.samsung{
+    background-color: #393f4d;
+}
+.watch{
+    background-color: #393f4d;
+
+}
+.headset{
+    background-color: #393f4d;
+    width: 22% !important;
+    border: 1px solid;
+
+}
+.logitech{
+    border: 1px solid;
+    
+}
+.wtch{
+    border: 1px solid;
+    
+}
+.gaminghtn{
+    border: 1px solid;
+
+}
+.digital{
+    background-color:#f7c9d3;
+}
+.note{
+    height: 555px;
+    width: 100%;
+}
+
+.img1{
+    height: 180px;
+    width: 150px;
+    background-color: rgba(41, 37, 94, 0.897);
+    padding: 10px;
+    margin: 15px;
+}
+.text_img{
+    padding: 10px;
+}
+.ri-star-fill{
+    color: #c9ce2c;
+}
+.img2{
+    height: 100px;
+    width: 100px;
+   align-items: center;
+}
+#free{
+    background-color:rgba(127, 255, 212, 0.356);
+    margin-top: 40px;
+}
+.ship{
+  background-color: white;
+}
+#updates{
+    padding: 80px 0;
+}
+#updates{
+    border-bottom: 1px solid;
+   margin-bottom: 10px;
+}
+ul {
+    list-style: none;
+    padding-left: 0;
+    text-decoration: none;
+    color: black;
+
+}
+.a {
+    text-decoration: none;
+    color: black;
+}
+.icons{
+    color: rgb(24, 24, 209);
+}
+.img3{
+background-color: rgb(226, 226, 238)
+}
+
+#footer{
+    border-bottom: 1px solid;
+   
+}
+#bottom{
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+.imglogo{
+  background-color: aliceblue;
+}
+.svg{
+    height: 32px;
+    width: 32px;
+   
+}
+
+#footer ul li a {
+    color: #5C5F6A;
+   
+}
+.weekend{
+    color: red;
+}
